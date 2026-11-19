@@ -29,9 +29,10 @@ Use `claim-raven-pro-research@claim-raven` or `claim-raven-research@claim-raven`
 ```
 codex plugin marketplace add claimraven/claim-raven-plugins
 codex plugin add claim-raven@claim-raven
+codex mcp login claim-raven
 ```
 
-Codex asks you to sign in to Claim Raven the first time it connects.
+The last line opens a Claim Raven page where you sign in and choose what the AI can read. The no-account plugin (`claim-raven-research@claim-raven`) needs no sign-in.
 
 ## Using Claude on the website, desktop or phone
 
