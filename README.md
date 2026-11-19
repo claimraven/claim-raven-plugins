@@ -13,7 +13,7 @@ Every plugin only reads. None of them can change, upload, delete, submit or send
 |---|---|---|
 | `claim-raven` | Veterans with a Claim Raven account (Free included) | Check a VA decision letter, prepare for a C&P exam, draft a personal statement, plan a secondary condition claim, see what is due next, research a condition |
 | `claim-raven-pro-research` | Accredited representatives and attorneys with a Claim Raven Pro account | Board of Veterans' Appeals case research, VA authority briefs, condition theory research. Research only: no client records pass through this connection. |
-| `claim-raven-research` | Anyone, no account | Look up the exact text of a VA rule (38 CFR, 38 U.S.C., the M21 manuals) and find the VA law on a question |
+| `claim-raven-research` | Anyone, no account | Look up the exact text of a VA rule (38 CFR, 38 U.S.C., the M21 manuals), find the VA law on a question, check presumptive conditions, find the right VA form, and find accredited help nearby (free veterans service officers, attorneys and claims agents) |
 
 ## Install in Claude Code
 
@@ -45,6 +45,9 @@ Those apps add Claim Raven as a connector instead of a plugin. The steps are at 
 - "Can I claim sleep apnea secondary to my PTSD? What would I need?"
 - "What is due next on my claim?"
 - "What does 38 CFR 3.310 say?"
+- "I was in Thailand in 1968. Is my hypertension presumptive?"
+- "Which form do I use for a buddy statement?"
+- "Find me a free veterans service officer near Austin, Texas."
 
 ## Privacy and safety
 

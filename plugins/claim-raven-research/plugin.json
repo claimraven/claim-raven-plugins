@@ -1,8 +1,8 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "claim-raven-research",
-  "version": "1.0.0",
-  "description": "Free VA law research for Claude Code and Codex with no account: the text of 38 CFR, 38 U.S.C. and the M21 manuals, and the law for a VA benefits question. Reads no personal information.",
+  "version": "1.1.0",
+  "description": "Free VA research for Claude Code and Codex with no account: the text of 38 CFR, 38 U.S.C. and the M21 manuals, the law for a VA benefits question, presumptive conditions, the right VA form, and accredited help nearby. Reads no personal information.",
   "author": {
     "name": "Claim Raven",
     "url": "https://claimraven.com"

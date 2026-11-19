@@ -21,7 +21,7 @@
     {
       "name": "claim-raven-research",
       "source": "./plugins/claim-raven-research",
-      "description": "Free, no account: VA rule text and the law for a VA benefits question."
+      "description": "Free, no account: VA rule text, the law for a VA benefits question, presumptive conditions, the right VA form and accredited help nearby."
     }
   ]
 }
