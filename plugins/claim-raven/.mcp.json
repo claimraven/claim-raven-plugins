@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "claim-raven": {
+      "type": "http",
+      "url": "https://mcp.claimraven.com/mcp"
+    }
+  }
+}

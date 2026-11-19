@@ -1,0 +1,18 @@
+{
+  "name": "claim-raven",
+  "version": "1.0.0",
+  "description": "Use your Claim Raven workspace in Claude Code or Codex: your conditions, VA.gov copy, deadlines, saved reports, VA rules, condition research and Board of Veterans' Appeals decisions. Read only.",
+  "author": {
+    "name": "Claim Raven",
+    "url": "https://claimraven.com"
+  },
+  "homepage": "https://claimraven.com/mcp",
+  "keywords": [
+    "veterans",
+    "va-disability",
+    "va-claims",
+    "mcp"
+  ],
+  "license": "MIT",
+  "privacyPolicyUrl": "https://claimraven.com/privacy-policy"
+}

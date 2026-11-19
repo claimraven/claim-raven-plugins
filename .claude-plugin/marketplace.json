@@ -1,0 +1,27 @@
+{
+  "name": "claim-raven",
+  "owner": {
+    "name": "Claim Raven",
+    "url": "https://claimraven.com"
+  },
+  "metadata": {
+    "description": "Claim Raven plugins for Claude Code and Codex: help with VA disability claims, read only."
+  },
+  "plugins": [
+    {
+      "name": "claim-raven",
+      "source": "./plugins/claim-raven",
+      "description": "For veterans with a Claim Raven account: your conditions, VA.gov copy, deadlines, saved reports, VA rules, condition research and Board decisions."
+    },
+    {
+      "name": "claim-raven-pro-research",
+      "source": "./plugins/claim-raven-pro-research",
+      "description": "For accredited representatives and attorneys with a Claim Raven Pro account: Board decision research, VA law and condition research. No client records."
+    },
+    {
+      "name": "claim-raven-research",
+      "source": "./plugins/claim-raven-research",
+      "description": "Free, no account: VA rule text and the law for a VA benefits question."
+    }
+  ]
+}

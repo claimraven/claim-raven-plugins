@@ -1,0 +1,44 @@
+{
+  "name": "claim-raven",
+  "interface": {
+    "displayName": "Claim Raven"
+  },
+  "plugins": [
+    {
+      "name": "claim-raven",
+      "source": {
+        "source": "local",
+        "path": "./plugins/claim-raven"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "claim-raven-pro-research",
+      "source": {
+        "source": "local",
+        "path": "./plugins/claim-raven-pro-research"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "claim-raven-research",
+      "source": {
+        "source": "local",
+        "path": "./plugins/claim-raven-research"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
