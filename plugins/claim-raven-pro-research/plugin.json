@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "claim-raven-pro-research",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Board of Veterans' Appeals research, VA law and condition research for accredited representatives and attorneys with a Claim Raven Pro account. Research only: no client records pass through this connection.",
   "author": {
     "name": "Claim Raven",

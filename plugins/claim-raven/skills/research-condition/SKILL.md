@@ -1,6 +1,6 @@
 ---
 name: research-condition
-description: Use when a veteran or anyone helping them wants to know how VA handles a condition: how it can be service connected, how VA rates it, what evidence and exams matter, and how the Board of Veterans' Appeals has decided similar claims. Needs the Claim Raven connection.
+description: Use when a veteran or anyone helping them wants to know how VA handles a condition, including how it can be service connected, how VA rates it, what evidence and exams matter, and how the Board of Veterans' Appeals has decided similar claims. Needs the Claim Raven connection.
 ---
 
 # Research a condition

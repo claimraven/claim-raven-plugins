@@ -1,6 +1,6 @@
 ---
 name: board-case-research
-description: Use when an accredited representative or attorney wants Board of Veterans' Appeals decisions on facts like their case: how often a condition is granted, denied or remanded, which evidence and theories won, and decisions to read and cite. Needs a Claim Raven Pro connection.
+description: Use when an accredited representative or attorney wants Board of Veterans' Appeals decisions on facts like their case, including how often a condition is granted, denied or remanded, which evidence and theories won, and decisions to read and cite. Needs a Claim Raven Pro connection.
 ---
 
 # Board case research

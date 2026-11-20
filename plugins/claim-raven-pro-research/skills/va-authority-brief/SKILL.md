@@ -1,6 +1,6 @@
 ---
 name: va-authority-brief
-description: Use when an accredited representative or attorney needs the controlling authority on a VA benefits question: statutes, regulations, the M21-1 and M21-5 manuals, with exact text and dates. Needs a Claim Raven Pro connection.
+description: Use when an accredited representative or attorney needs the controlling authority on a VA benefits question, including statutes, regulations, and the M21-1 and M21-5 manuals, with exact text and dates. Needs a Claim Raven Pro connection.
 ---
 
 # VA authority brief
